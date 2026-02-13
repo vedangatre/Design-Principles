@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\vatre\\source\\repos\\Logistics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2495054A-EE69-4782-9DA1-4648C8CA6211}|Logistics.csproj|c:\\users\\vatre\\source\\repos\\logistics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2495054A-EE69-4782-9DA1-4648C8CA6211}|Logistics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E550B3BC-F2C6-AA9E-3311-BAFBB2118EAD}|Logistics.csproj|c:\\users\\vatre\\source\\repos\\logistics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E550B3BC-F2C6-AA9E-3311-BAFBB2118EAD}|Logistics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2495054A-EE69-4782-9DA1-4648C8CA6211}|Logistics.csproj|c:\\users\\vatre\\source\\repos\\logistics\\oddexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2495054A-EE69-4782-9DA1-4648C8CA6211}|Logistics.csproj|solutionrelative:oddexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E550B3BC-F2C6-AA9E-3311-BAFBB2118EAD}|Logistics.csproj|c:\\users\\vatre\\source\\repos\\logistics\\oodexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E550B3BC-F2C6-AA9E-3311-BAFBB2118EAD}|Logistics.csproj|solutionrelative:oodexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2495054A-EE69-4782-9DA1-4648C8CA6211}|Logistics.csproj|c:\\users\\vatre\\source\\repos\\logistics\\principlesexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2495054A-EE69-4782-9DA1-4648C8CA6211}|Logistics.csproj|solutionrelative:principlesexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E550B3BC-F2C6-AA9E-3311-BAFBB2118EAD}|Logistics.csproj|c:\\users\\vatre\\source\\repos\\logistics\\ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E550B3BC-F2C6-AA9E-3311-BAFBB2118EAD}|Logistics.csproj|solutionrelative:ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2495054A-EE69-4782-9DA1-4648C8CA6211}|Logistics.csproj|c:\\users\\vatre\\source\\repos\\logistics\\isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2495054A-EE69-4782-9DA1-4648C8CA6211}|Logistics.csproj|solutionrelative:isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E550B3BC-F2C6-AA9E-3311-BAFBB2118EAD}|Logistics.csproj|c:\\users\\vatre\\source\\repos\\logistics\\srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E550B3BC-F2C6-AA9E-3311-BAFBB2118EAD}|Logistics.csproj|solutionrelative:srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2495054A-EE69-4782-9DA1-4648C8CA6211}|Logistics.csproj|c:\\users\\vatre\\source\\repos\\logistics\\dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2495054A-EE69-4782-9DA1-4648C8CA6211}|Logistics.csproj|solutionrelative:dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E550B3BC-F2C6-AA9E-3311-BAFBB2118EAD}|Logistics.csproj|c:\\users\\vatre\\source\\repos\\logistics\\principlesexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E550B3BC-F2C6-AA9E-3311-BAFBB2118EAD}|Logistics.csproj|solutionrelative:principlesexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2495054A-EE69-4782-9DA1-4648C8CA6211}|Logistics.csproj|c:\\users\\vatre\\source\\repos\\logistics\\sre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2495054A-EE69-4782-9DA1-4648C8CA6211}|Logistics.csproj|solutionrelative:sre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E550B3BC-F2C6-AA9E-3311-BAFBB2118EAD}|Logistics.csproj|c:\\users\\vatre\\source\\repos\\logistics\\dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E550B3BC-F2C6-AA9E-3311-BAFBB2118EAD}|Logistics.csproj|solutionrelative:dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2495054A-EE69-4782-9DA1-4648C8CA6211}|Logistics.csproj|c:\\users\\vatre\\source\\repos\\logistics\\ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2495054A-EE69-4782-9DA1-4648C8CA6211}|Logistics.csproj|solutionrelative:ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E550B3BC-F2C6-AA9E-3311-BAFBB2118EAD}|Logistics.csproj|c:\\users\\vatre\\source\\repos\\logistics\\isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E550B3BC-F2C6-AA9E-3311-BAFBB2118EAD}|Logistics.csproj|solutionrelative:isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2495054A-EE69-4782-9DA1-4648C8CA6211}|Logistics.csproj|c:\\users\\vatre\\source\\repos\\logistics\\lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2495054A-EE69-4782-9DA1-4648C8CA6211}|Logistics.csproj|solutionrelative:lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E550B3BC-F2C6-AA9E-3311-BAFBB2118EAD}|Logistics.csproj|c:\\users\\vatre\\source\\repos\\logistics\\lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E550B3BC-F2C6-AA9E-3311-BAFBB2118EAD}|Logistics.csproj|solutionrelative:lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,13 +46,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "OCP.cs",
               "DocumentMoniker": "C:\\Users\\vatre\\source\\repos\\Logistics\\OCP.cs",
               "RelativeDocumentMoniker": "OCP.cs",
               "ToolTip": "C:\\Users\\vatre\\source\\repos\\Logistics\\OCP.cs",
               "RelativeToolTip": "OCP.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAgwCgAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T07:03:14.259Z",
               "EditorCaption": ""
@@ -60,19 +60,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ODDExamples.cs",
-              "DocumentMoniker": "C:\\Users\\vatre\\source\\repos\\Logistics\\ODDExamples.cs",
-              "RelativeDocumentMoniker": "ODDExamples.cs",
-              "ToolTip": "C:\\Users\\vatre\\source\\repos\\Logistics\\ODDExamples.cs",
-              "RelativeToolTip": "ODDExamples.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
+              "Title": "OODExamples.cs",
+              "DocumentMoniker": "C:\\Users\\vatre\\source\\repos\\Logistics\\OODExamples.cs",
+              "RelativeDocumentMoniker": "OODExamples.cs",
+              "ToolTip": "C:\\Users\\vatre\\source\\repos\\Logistics\\OODExamples.cs",
+              "RelativeToolTip": "OODExamples.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T04:46:46.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PrinciplesExamples.cs",
               "DocumentMoniker": "C:\\Users\\vatre\\source\\repos\\Logistics\\PrinciplesExamples.cs",
               "RelativeDocumentMoniker": "PrinciplesExamples.cs",
@@ -80,18 +80,17 @@
               "RelativeToolTip": "PrinciplesExamples.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T05:20:53.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T05:20:53.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SRE.cs",
-              "DocumentMoniker": "C:\\Users\\vatre\\source\\repos\\Logistics\\SRE.cs",
-              "RelativeDocumentMoniker": "SRE.cs",
-              "ToolTip": "C:\\Users\\vatre\\source\\repos\\Logistics\\SRE.cs",
-              "RelativeToolTip": "SRE.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA3wB8AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SRP.cs",
+              "DocumentMoniker": "C:\\Users\\vatre\\source\\repos\\Logistics\\SRP.cs",
+              "RelativeDocumentMoniker": "SRP.cs",
+              "ToolTip": "C:\\Users\\vatre\\source\\repos\\Logistics\\SRP.cs",
+              "RelativeToolTip": "SRP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T05:54:08.023Z",
               "EditorCaption": ""
@@ -104,14 +103,14 @@
               "RelativeDocumentMoniker": "program.cs",
               "ToolTip": "C:\\Users\\vatre\\source\\repos\\Logistics\\program.cs",
               "RelativeToolTip": "program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAwwHgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T04:44:47.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DIP.cs",
               "DocumentMoniker": "C:\\Users\\vatre\\source\\repos\\Logistics\\DIP.cs",
               "RelativeDocumentMoniker": "DIP.cs",
@@ -119,12 +118,11 @@
               "RelativeToolTip": "DIP.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T08:25:21.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T08:25:21.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ISP.cs",
               "DocumentMoniker": "C:\\Users\\vatre\\source\\repos\\Logistics\\ISP.cs",
               "RelativeDocumentMoniker": "ISP.cs",
@@ -132,8 +130,7 @@
               "RelativeToolTip": "ISP.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAA7wB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T08:09:19.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T08:09:19.007Z"
             },
             {
               "$type": "Document",
@@ -145,8 +142,7 @@
               "RelativeToolTip": "LSP.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAYwCAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T07:33:17.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T07:33:17.594Z"
             }
           ]
         }

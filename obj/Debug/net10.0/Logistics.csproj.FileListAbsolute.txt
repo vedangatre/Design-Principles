@@ -12,3 +12,4 @@ C:\Users\vatre\source\repos\Logistics\obj\Debug\net10.0\refint\Logistics.dll
 C:\Users\vatre\source\repos\Logistics\obj\Debug\net10.0\Logistics.pdb
 C:\Users\vatre\source\repos\Logistics\obj\Debug\net10.0\Logistics.genruntimeconfig.cache
 C:\Users\vatre\source\repos\Logistics\obj\Debug\net10.0\ref\Logistics.dll
+C:\Users\vatre\source\repos\Logistics\obj\Debug\net10.0\Logistics.sourcelink.json

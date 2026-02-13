@@ -63,6 +63,7 @@ namespace Logistics
     // 3. Polymorphism
     // - Different Shipments calculate cost differently
 
+    // Overriding
     public interface IShipmentCost
     {
         public double CalculateCost();
@@ -83,4 +84,27 @@ namespace Logistics
             return 200.0d;
         }
     }
+
+	// Overloading
+	public class CostCalculator
+	{
+		// Overload 1: Only weight
+		public double CalculateCost(double weight)
+		{
+			return weight * 10;
+		}
+
+		// Overload 2: Weight + distance
+		public double CalculateCost(double weight, double distance)
+		{
+			return (weight * 10) + (distance * 5);
+		}
+
+		// Overload 3: Weight + distance + priority factor
+		public double CalculateCost(double weight, double distance, double priority)
+		{
+			return ((weight * 10) + (distance * 5)) * priority;
+		}
+	}
+
 }

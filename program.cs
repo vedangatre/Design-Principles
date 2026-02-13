@@ -113,12 +113,22 @@ namespace Logistics
 		{
 			Console.WriteLine("POLYMORPHISM Example");
 
+			// Polymorphism
 			IShipmentCost airCost = new Air();
 			IShipmentCost roadCost = new Road();
 
 			Console.WriteLine($"Air Cost: {airCost.CalculateCost()}");
 			Console.WriteLine($"Road Cost: {roadCost.CalculateCost()}");
+
+			// Function Overloading Example
+			CostCalculator calc = new CostCalculator();
+
+			Console.WriteLine("\n--- Function Overloading Demonstration ---");
+			Console.WriteLine($"Basic Cost (weight): {calc.CalculateCost(50)}");
+			Console.WriteLine($"Cost (weight + distance): {calc.CalculateCost(50, 200)}");
+			Console.WriteLine($"Cost (weight + distance + priority): {calc.CalculateCost(50, 200, 1.5)}");
 		}
+
 
 		// ============================
 		// 4. KISS
